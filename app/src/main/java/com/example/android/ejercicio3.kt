@@ -23,7 +23,8 @@ fun main(){
     print(charExample1)
     //variables boleanos
 
-    val booleanEjemplo:Boolean
+    val booleanEjemplo:Boolean =true
+
 
 
 
